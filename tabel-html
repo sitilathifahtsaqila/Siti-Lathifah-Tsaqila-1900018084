@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>tabel</title>
+	<center>
+	<h2> Tabel Data Mahasiswa </h2>
+</center>
+</head>
+<body>
+	<center>
+	<table border="1" >
+	<tr>
+	<td >NO</td>
+	<td >Nama</td>
+	<td >NIM</td>
+	<td >Alamat</td>
+	</tr>
+
+    <tr>
+    <td >1</td>
+    <td >Aqila</td>
+    <td >1900018001</td>
+    <td >Jakarta</td>
+    </tr>
+	
+    <tr>
+	<td >2</td>
+	<td >Bagas</td>
+    <td >1900018002</td>
+    <td >Bandung</td>
+	</tr>
+
+	<tr>
+	<td >3</td>
+	<td >Cahya</td>
+    <td >1900018003</td>
+    <td >Yogyakarta</td>
+	</tr>
+	<tr>
+	<td >4</td>
+	<td >Dinda</td>
+    <td >1900018004</td>
+    <td >Surabaya</td>
+	</tr>
+	<tr>
+	<td >5</td>
+	<td >Elang</td>
+    <td >1900018005</td>
+    <td >Solo</td>
+	</tr>
+	</table>
+	</center>
+</body>
+</html>
