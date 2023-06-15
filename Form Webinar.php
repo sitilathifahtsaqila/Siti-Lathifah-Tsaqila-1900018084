@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>webinar</title>
+	<title>Webinar</title>
 	<style type="text/css">
 		.error {color: #FF0000;}
 		body{
